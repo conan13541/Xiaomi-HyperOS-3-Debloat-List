@@ -1,49 +1,49 @@
 # Xiaomi-HyperOS-3-Debloat-List
 Here is the full debloat list, 46 app names
-/
-com.android.chrome
-com.android.egg
-com.android.hotwordenrollment.okgoogle
-com.android.hotwordenrollment.xgoogle
-com.android.providers.partnerbookmarks
-com.facebook.appmanager
-com.facebook.services
-com.facebook.system
-com.goodix.fingerprint.setting
-com.google.ambient.streaming
-com.google.android.accessibility.switchaccess
-com.google.android.adservices.api
-com.google.android.apps.photos
-com.google.android.apps.safetyhub
-com.google.android.apps.subscriptions.red
-com.google.android.apps.tachyon
-com.google.android.apps.wellbeing
-com.google.android.apps.youtube.music
-com.google.android.gm
-com.google.android.gms.location.history
-com.google.android.gms.supervision
-com.google.android.googlequicksearchbox
-com.google.android.health.connect.backuprestore
-com.google.android.healthconnect.controller
-com.google.android.inputmethod.latin
-com.google.android.ondevicepersonalization.services
-com.google.android.onetimeinitializer
-com.google.android.overlay.modules.healthfitness.forframework
-com.google.android.partnersetup
-com.google.android.safetycenter.resources
-com.google.android.videos
-com.google.android.youtube
-com.google.mainline.adservices
-com.mi.healthglobal
-com.microsoftsdk.crossdeviceservicebroker
-com.miui.analytics
-com.miui.daemon
-com.miui.misightservice
-com.miui.msa.global
-com.miui.player
-com.miui.yellowpage
-com.qualcomm.qti.qcolor
-com.xiaomi.aiservice
-com.xiaomi.glgm
+//
+com.android.chrome //
+com.android.egg //
+com.android.hotwordenrollment.okgoogle //
+com.android.hotwordenrollment.xgoogle //
+com.android.providers.partnerbookmarks //
+com.facebook.appmanager //
+com.facebook.services //
+com.facebook.system //
+com.goodix.fingerprint.setting //
+com.google.ambient.streaming //
+com.google.android.accessibility.switchaccess //
+com.google.android.adservices.api //
+com.google.android.apps.photos //
+com.google.android.apps.safetyhub //
+com.google.android.apps.subscriptions.red //
+com.google.android.apps.tachyon //
+com.google.android.apps.wellbeing //
+com.google.android.apps.youtube.music //
+com.google.android.gm //
+com.google.android.gms.location.history //
+com.google.android.gms.supervision //
+com.google.android.googlequicksearchbox //
+com.google.android.health.connect.backuprestore //
+com.google.android.healthconnect.controller //
+com.google.android.inputmethod.latin //
+com.google.android.ondevicepersonalization.services //
+com.google.android.onetimeinitializer //
+com.google.android.overlay.modules.healthfitness.forframework //
+com.google.android.partnersetup //
+com.google.android.safetycenter.resources //
+com.google.android.videos //
+com.google.android.youtube //
+com.google.mainline.adservices //
+com.mi.healthglobal //
+com.microsoftsdk.crossdeviceservicebroker //
+com.miui.analytics //
+com.miui.daemon //
+com.miui.misightservice //
+com.miui.msa.global //
+com.miui.player //
+com.miui.yellowpage //
+com.qualcomm.qti.qcolor //
+com.xiaomi.aiservice //
+com.xiaomi.glgm //
 com.xiaomi.mipicks
 com.xiaomi.payment
